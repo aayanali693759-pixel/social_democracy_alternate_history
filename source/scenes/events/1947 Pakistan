@@ -1,0 +1,26 @@
+title: Midnight, 14 August 1947
+tags: intro, phase1
+go-to: founding-hub
+
+= A New State
+
+Pakistan exists now. Two wings, separated by a thousand miles of India;
+a Constituent Assembly that has not written a constitution; a
+Governor-General whose exact powers no one has finished arguing about;
+and, on both sides of the new border, columns of people walking in
+opposite directions.
+
+*The Muslim League has authority nobody else in the state can currently
+check. What you do with that authority in the next twelve months will
+outlast you.*
+
+[+ legitimacy: 5 +]
+[+ institutional-resilience: 2 +]
+[+ military-agitation: 0 +]
+[+ bengal-alienation: 1 +]
+[+ religious-freedom: 5 +]
+[+ ulema-relations: 3 +]
+[+ cold-war-alignment: 0 +]
+[+ hollow-invocation: 0 +]
+
+on-arrival: state.year = 1947; state.phase = 1; state.gov_type_chosen = false;
